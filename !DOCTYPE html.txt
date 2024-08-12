@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al Motasem Abu Shahla | Mechanical Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Al Motasem Abu Shahla</h1>
+        <h2>Mechanical Engineer | Energy Expert</h2>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#innovations">Innovations</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am Al Motasem Abu Shahla, a Mechanical Engineer with over 20 years of experience in power and energy. Currently, I am focused on geothermal energy and seeking opportunities in Oman.</p>
+        <p>My professional mission is to enhance operational efficiency through innovative solutions and strategic use of resources.</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <h3>Operations Manager at Gaza Power Station</h3>
+        <p>For 21 years, I managed operations at the Gaza Power Station, implementing numerous innovative solutions to overcome challenges related to material shortages and import restrictions.</p>
+        <p>Key Achievements:</p>
+        <ul>
+            <li>Recommissioning of all units at the Gaza Power Station.</li>
+            <li>Implemented proactive operations and maintenance techniques, including thermal imaging and vibration analysis.</li>
+            <li>Developed modifications to reuse resins at the Water Treatment Plant.</li>
+        </ul>
+    </section>
+    
+    <section id="innovations">
+        <h2>Innovations</h2>
+        <p>Throughout my career, I have implemented numerous innovative solutions to enhance operational efficiency:</p>
+        <ul>
+            <li>Thermal imaging for early detection of issues.</li>
+            <li>Vibration analysis programs to monitor equipment health.</li>
+            <li>Modifications to extend the life of critical components.</li>
+        </ul>
+    </section>
+    
+    <section id="services">
+        <h2>Services</h2>
+        <p>I offer consulting services in geothermal energy and power station management, with technical expertise in:</p>
+        <ul>
+            <li>Thermal imaging</li>
+            <li>Wall thickness monitoring</li>
+            <li>Vibration analysis</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            
+            <button type="submit">Send</button>
+        </form>
+        <p>Email: your-email@example.com</p>
+        <p>Phone: +123 456 7890</p>
+        <p><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Al Motasem Abu Shahla</p>
+        <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </footer>
+</body>
+</html>
